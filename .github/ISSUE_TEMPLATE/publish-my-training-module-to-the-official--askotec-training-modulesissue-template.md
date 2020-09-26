@@ -1,6 +1,5 @@
 ---
-name: 'Custom Publish my Training-Module to the official #ASKotec Training-Modulesissue
-  template'
+name: 'Publish my Training-Module to the official #ASKotec Training-Modules'
 about: 'Make a request to add your training module to the official list of #ASKotec
   Training Modules'
 title: Request for publishing a Training-Module
