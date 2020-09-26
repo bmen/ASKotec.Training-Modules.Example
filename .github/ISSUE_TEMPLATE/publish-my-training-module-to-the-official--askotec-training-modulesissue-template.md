@@ -20,7 +20,7 @@ URL: https://url-of-your-repository
 ## Next steps
 now the ASKotec Team has to check your request and to do his points ;) We contact you over the comment function of this issue.
 
-## Checkpoints for the #ASKotec team:
+-----------------------------------------------------NOW IS THE PART OF THE #ASKOTEC TEAM ---------------------------------------------------
 * [ ] the licence is open source
 * [ ] all points are filled out in the README.md
 * [ ] all points are filled out in the settings.yml
